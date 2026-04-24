@@ -175,13 +175,24 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "b9252e6faad0a682",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,6 +209,7 @@
   },
   "active": "596743d102944d20",
   "lastOpenFiles": [
+    "README.md",
     "2. Frequenz und Wellenausbreitung/2.7 Wasserfalldiagramm.md",
     "2. Frequenz und Wellenausbreitung/2.6 Wellenlänge.md",
     "2. Frequenz und Wellenausbreitung/2.5 Funkwellen.md",
@@ -215,7 +227,6 @@
     "1. Erste Schritte/1.3 Rufzeichen.md",
     "1. Erste Schritte/1.2 Der erste Schritt.md",
     "1. Erste Schritte/1.1 Vorwort.md",
-    "README.md",
     "2. Frequenz und Wellenausbreitung",
     "Erste Schritte/0.0 Erste Schritte.md",
     "Untitled.base",
