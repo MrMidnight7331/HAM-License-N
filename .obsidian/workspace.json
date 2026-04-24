@@ -172,8 +172,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
@@ -181,8 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,10 +196,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f930639569e3c1d3",
+  "active": "596743d102944d20",
   "lastOpenFiles": [
-    "README.md",
+    "Erste Schritte/1.3 Rufzeichen.md",
+    "Erste Schritte/1.4 Internationale Buchstabiertafel.md",
+    "Erste Schritte/1.5 Betriebsabwicklung.md",
+    "Erste Schritte/1.6 Das RST-System.md",
     "Erste Schritte/1.2 Der erste Schritt.md",
+    "README.md",
     "Erste Schritte",
     "t.md",
     "test.md",
@@ -225,10 +228,6 @@
     "Practical Ethical Hacking - The Complete Course/14. Attacking Active Directory (Initial Attack Vectors)/13. Initial Internal Attack Strategy.md",
     "Practical Ethical Hacking - The Complete Course/14. Attacking Active Directory (Initial Attack Vectors)/08. Gaining Shell Access.md",
     "Practical Ethical Hacking - The Complete Course/14. Attacking Active Directory (Initial Attack Vectors)/07. SMB Relay Attack Defenses.md",
-    "Practical Ethical Hacking - The Complete Course/14. Attacking Active Directory (Initial Attack Vectors)/06. SMB Relay Attacks Lab.md",
-    "Practical Ethical Hacking - The Complete Course/14. Attacking Active Directory (Initial Attack Vectors)/05. SMB Relay Attacks Overview.md",
-    "Practical Ethical Hacking - The Complete Course/14. Attacking Active Directory (Initial Attack Vectors)/03. Cracking Our Captured Hashes.md",
-    "Practical Ethical Hacking - The Complete Course/14. Attacking Active Directory (Initial Attack Vectors)/02. Capturing Hashes with Responder.md",
     "Practical Ethical Hacking - The Complete Course/15. Attacking Active Directory (Post-Compromise Enumeration)/00. image/domain enumeration with plumhound 01.png",
     "Practical Ethical Hacking - The Complete Course/15. Attacking Active Directory (Post-Compromise Enumeration)/00. image/Screenshot 2024-08-05 123548.png",
     "Practical Ethical Hacking - The Complete Course/15. Attacking Active Directory (Post-Compromise Enumeration)/00. image/domain enumeration with ldapdomaindump 01.png",
