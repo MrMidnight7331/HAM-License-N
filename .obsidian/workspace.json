@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "t.md",
+                "file": "Erste Schritte/1.2 Der erste Schritt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "t"
+              "title": "1.2 Der erste Schritt"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "t.md",
+                "file": "Erste Schritte/1.2 Der erste Schritt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for t"
+              "title": "Backlinks for 1.2 Der erste Schritt"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "t.md",
+                "file": "Erste Schritte/1.2 Der erste Schritt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from t"
+              "title": "Outgoing links from 1.2 Der erste Schritt"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "t.md",
+                "file": "Erste Schritte/1.2 Der erste Schritt.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of t"
+              "title": "Outline of 1.2 Der erste Schritt"
             }
           },
           {
@@ -197,9 +197,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "596743d102944d20",
+  "active": "f930639569e3c1d3",
   "lastOpenFiles": [
     "README.md",
+    "Erste Schritte/1.2 Der erste Schritt.md",
+    "Erste Schritte",
     "t.md",
     "test.md",
     "Practical Ethical Hacking - The Complete Course/17. We've Compromised the Domain - Now What/04. Golden Ticket Attacks.md",
@@ -242,7 +244,6 @@
     "Practical Ethical Hacking - The Complete Course/22. Find & Exploit Common Web Vulnerabilities",
     "Practical Ethical Hacking - The Complete Course/19. Active Directory Case Studies",
     "Practical Ethical Hacking - The Complete Course/18. Additional Active Directory Attacks",
-    "Practical Ethical Hacking - The Complete Course/17. We've Compromised the Domain - Now What",
-    "Practical Ethical Hacking - The Complete Course/16. Attacking Active Directory (Post-Compromise Attacks)"
+    "Practical Ethical Hacking - The Complete Course/17. We've Compromised the Domain - Now What"
   ]
 }
