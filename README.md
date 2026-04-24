@@ -2,7 +2,7 @@
 > Lernmaterial von: [50OHM](https://50ohm.de/N_course_index.html)
 
 ### Wichtig:
-In Obsidian öffnen für richtige Formatierung!
+In [Obsidian](https://obsidian.md/) öffnen für richtige Formatierung!
 
 --- 
 ### 1. Erste Schritte
