@@ -25,3 +25,11 @@ In [Obsidian](https://obsidian.md/) öffnen für richtige Formatierung!
 [[2.5 Funkwellen]]
 [[2.6 Wellenlänge]]
 [[2.7 Wasserfalldiagramm]]
+[[2.8 Frequenzspektrum]]
+[[2.9 Frequenzzuteilung]]
+[[2.10 Amateurfunkbänder]]
+[[2.11 Primärer und sekundärer Funkdienst]]
+[[2.12 IARU-Bandpläne]]
+[[2.13 IARU-Bandplan für 2 m]]
+[[2.14 IARU-Bandplan für 70cm]]
+[[2.1

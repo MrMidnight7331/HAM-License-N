@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Frequenz und Wellenausbreitung/2.15 Wellenausbreitung.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.15 Wellenausbreitung"
+              "title": "README"
             }
           }
         ],
@@ -223,8 +223,8 @@
   },
   "active": "1a6248d17a11ea52",
   "lastOpenFiles": [
-    "2. Frequenz und Wellenausbreitung/2.14 IARU-Bandplan für 70cm.md",
     "2. Frequenz und Wellenausbreitung/2.15 Wellenausbreitung.md",
+    "2. Frequenz und Wellenausbreitung/2.14 IARU-Bandplan für 70cm.md",
     "2. Frequenz und Wellenausbreitung/2.13 IARU-Bandplan für 2 m.md",
     "0. Hilfsmitteln/IARU Bandplan 70cm.png",
     "2. Frequenz und Wellenausbreitung/2.10 Amateurfunkbänder.md",
