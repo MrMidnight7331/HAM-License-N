@@ -15,7 +15,7 @@ In [Obsidian](https://obsidian.md/) öffnen für richtige Formatierung!
 [[1.7 Ausbildungsfunkbetrieb]]
 [[1.8 Offene Sprache]]
 [[1.9 Funkverkehr nur mit Funkamateuren]]
-[[2.0 Gewerbliche Nutzung]]
+[[1.10 Gewerbliche Nutzung]]
 
 ### 2. Frequenz und Wellenausbreitung
 [[2.1 Gleich- und Wechselspannung]]
