@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Hilfsmitteln/HAM CW Cheat Sheet.md",
+                "file": "2. Frequenz und Wellenausbreitung/2.15 Wellenausbreitung.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HAM CW Cheat Sheet"
+              "title": "2.15 Wellenausbreitung"
             }
           }
         ],
@@ -223,14 +223,26 @@
   },
   "active": "1a6248d17a11ea52",
   "lastOpenFiles": [
-    "Template/Template.md",
+    "2. Frequenz und Wellenausbreitung/2.14 IARU-Bandplan für 70cm.md",
+    "2. Frequenz und Wellenausbreitung/2.15 Wellenausbreitung.md",
+    "2. Frequenz und Wellenausbreitung/2.13 IARU-Bandplan für 2 m.md",
+    "0. Hilfsmitteln/IARU Bandplan 70cm.png",
+    "2. Frequenz und Wellenausbreitung/2.10 Amateurfunkbänder.md",
+    "2. Frequenz und Wellenausbreitung/2.11 Primärer und sekundärer Funkdienst.md",
+    "2. Frequenz und Wellenausbreitung/2.12 IARU-Bandpläne.md",
+    "0. Hilfsmitteln/IARU Bandplan 2m.png",
+    "0. Hilfsmitteln/Anlage 1 AFuV.png",
+    "2. Frequenz und Wellenausbreitung/2.9 Frequenzzuteilung.md",
+    "2. Frequenz und Wellenausbreitung/2.8 Frequenzspektrum.md",
+    "Pasted image 20260424223904.png",
+    "2. Frequenz und Wellenausbreitung/2.6 Wellenlänge.md",
+    "2. Frequenz und Wellenausbreitung/2.7 Wasserfalldiagramm.md",
     "0. Hilfsmitteln/HAM CW Cheat Sheet.md",
+    "Template/Template.md",
     "2. Frequenz und Wellenausbreitung/2.5 Funkwellen.md",
     "Template/1.1 test test.md",
-    "2. Frequenz und Wellenausbreitung/2.6 Wellenlänge.md",
     "README.md",
     "2. Frequenz und Wellenausbreitung/2.1 Gleich- und Wechselspannung.md",
-    "2. Frequenz und Wellenausbreitung/2.7 Wasserfalldiagramm.md",
     "2. Frequenz und Wellenausbreitung/2.4 Amplitude und Periode.md",
     "2. Frequenz und Wellenausbreitung/2.3 Sinusschwingung.md",
     "2. Frequenz und Wellenausbreitung/2.2 Frequenz.md",
@@ -243,20 +255,12 @@
     "1. Erste Schritte/1.9 Funkverkehr nur mit Funkamateuren.md",
     "1. Erste Schritte/1.8 Offene Sprache.md",
     "1. Erste Schritte/1.7 Ausbildungsfunkbetrieb.md",
-    "1. Erste Schritte/1.6 Das RST-System.md",
-    "1. Erste Schritte/1.5 Betriebsabwicklung.md",
-    "1. Erste Schritte/1.4 Internationale Buchstabiertafel.md",
-    "1. Erste Schritte/1.3 Rufzeichen.md",
     "0. Hilfsmitteln/Hilfsmittel_12062024.pdf",
     "0. Hilfsmitteln",
     "New folder",
     "2. Frequenz und Wellenausbreitung",
-    "Erste Schritte/0.0 Erste Schritte.md",
     "Untitled.base",
     "1. Erste Schritte",
-    "t.md",
-    "test.md",
-    "Practical Ethical Hacking - The Complete Course/17. We've Compromised the Domain - Now What/04. Golden Ticket Attacks.md",
     "Practical Ethical Hacking - The Complete Course/16. Attacking Active Directory (Post-Compromise Attacks)/00. image/kerberosting overview 01.png",
     "Practical Ethical Hacking - The Complete Course/16. Attacking Active Directory (Post-Compromise Attacks)/00. image/Screenshot 2024-08-08 160342.png",
     "Practical Ethical Hacking - The Complete Course/16. Attacking Active Directory (Post-Compromise Attacks)/00. image",
@@ -264,10 +268,6 @@
     "Practical Ethical Hacking - The Complete Course/15. Attacking Active Directory (Post-Compromise Enumeration)/00. image/Screenshot 2024-08-05 123548.png",
     "Practical Ethical Hacking - The Complete Course/15. Attacking Active Directory (Post-Compromise Enumeration)/00. image/domain enumeration with ldapdomaindump 01.png",
     "Practical Ethical Hacking - The Complete Course/15. Attacking Active Directory (Post-Compromise Enumeration)/00. image/Screenshot 2024-08-05 120111.png",
-    "Practical Ethical Hacking - The Complete Course/15. Attacking Active Directory (Post-Compromise Enumeration)/00. image",
-    "Practical Ethical Hacking - The Complete Course/14. Attacking Active Directory (Initial Attack Vectors)/00. image/Passback Attacks 04.webp",
-    "Practical Ethical Hacking - The Complete Course/14. Attacking Active Directory (Initial Attack Vectors)/00. image/63702c4c0ce0bd335333b3d5_replacing-existing-SMTP-server-with-our-own-SMTP-server.webp",
-    "Practical Ethical Hacking - The Complete Course/14. Attacking Active Directory (Initial Attack Vectors)/00. image/Passback Attacks 03.webp",
-    "Practical Ethical Hacking - The Complete Course/14. Attacking Active Directory (Initial Attack Vectors)/00. image/63702be62c89f77c67a24c44_HP-Color-LaserJet-MFP-M477fdn-signin.webp"
+    "Practical Ethical Hacking - The Complete Course/15. Attacking Active Directory (Post-Compromise Enumeration)/00. image"
   ]
 }
