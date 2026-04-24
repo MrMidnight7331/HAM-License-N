@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "2. Frequenz und Wellenausbreitung/2.5 Funkwellen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "2.5 Funkwellen"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "2. Frequenz und Wellenausbreitung/2.5 Funkwellen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for 2.5 Funkwellen"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "2. Frequenz und Wellenausbreitung/2.5 Funkwellen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from 2.5 Funkwellen"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "2. Frequenz und Wellenausbreitung/2.5 Funkwellen.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of 2.5 Funkwellen"
             }
           },
           {
@@ -210,16 +210,21 @@
   },
   "active": "596743d102944d20",
   "lastOpenFiles": [
-    "2. Frequenz und Wellenausbreitung/2.7 Wasserfalldiagramm.md",
-    "1. Erste Schritte/1.1 Vorwort.md",
-    "1. Erste Schritte/1.2 Der erste Schritt.md",
+    "Template/1.1 test test.md",
     "2. Frequenz und Wellenausbreitung/2.5 Funkwellen.md",
     "2. Frequenz und Wellenausbreitung/2.6 Wellenlänge.md",
+    "README.md",
+    "Template/Template.md",
+    "2. Frequenz und Wellenausbreitung/2.1 Gleich- und Wechselspannung.md",
+    "2. Frequenz und Wellenausbreitung/2.7 Wasserfalldiagramm.md",
     "2. Frequenz und Wellenausbreitung/2.4 Amplitude und Periode.md",
     "2. Frequenz und Wellenausbreitung/2.3 Sinusschwingung.md",
     "2. Frequenz und Wellenausbreitung/2.2 Frequenz.md",
-    "2. Frequenz und Wellenausbreitung/2.1 Gleich- und Wechselspannung.md",
-    "README.md",
+    "().md",
+    "1. Erste Schritte/1.2 Der erste Schritt.md",
+    "1. Erste Schritte/1.1 Vorwort.md",
+    "Template",
+    "0. Template",
     "1. Erste Schritte/1.10 Gewerbliche Nutzung.md",
     "1. Erste Schritte/1.9 Funkverkehr nur mit Funkamateuren.md",
     "1. Erste Schritte/1.8 Offene Sprache.md",
@@ -239,8 +244,6 @@
     "test.md",
     "Practical Ethical Hacking - The Complete Course/17. We've Compromised the Domain - Now What/04. Golden Ticket Attacks.md",
     "Practical Ethical Hacking - The Complete Course/17. We've Compromised the Domain - Now What/02. Dumping the NTDS.dit.md",
-    "Practical Ethical Hacking - The Complete Course/17. We've Compromised the Domain - Now What/03. Golden Ticket Attacks Overview.md",
-    "Practical Ethical Hacking - The Complete Course/21. Web Application Enumeration, Revisited/03. Finding Alive Domains with Httprobe.md",
     "Practical Ethical Hacking - The Complete Course/16. Attacking Active Directory (Post-Compromise Attacks)/00. image/kerberosting overview 01.png",
     "Practical Ethical Hacking - The Complete Course/16. Attacking Active Directory (Post-Compromise Attacks)/00. image/Screenshot 2024-08-08 160342.png",
     "Practical Ethical Hacking - The Complete Course/16. Attacking Active Directory (Post-Compromise Attacks)/00. image",
@@ -249,11 +252,9 @@
     "Practical Ethical Hacking - The Complete Course/15. Attacking Active Directory (Post-Compromise Enumeration)/00. image/domain enumeration with ldapdomaindump 01.png",
     "Practical Ethical Hacking - The Complete Course/15. Attacking Active Directory (Post-Compromise Enumeration)/00. image/Screenshot 2024-08-05 120111.png",
     "Practical Ethical Hacking - The Complete Course/15. Attacking Active Directory (Post-Compromise Enumeration)/00. image",
-    "Practical Ethical Hacking - The Complete Course/08. Scanning & Enumeration (empty)",
     "Practical Ethical Hacking - The Complete Course/14. Attacking Active Directory (Initial Attack Vectors)/00. image/Passback Attacks 04.webp",
     "Practical Ethical Hacking - The Complete Course/14. Attacking Active Directory (Initial Attack Vectors)/00. image/63702c4c0ce0bd335333b3d5_replacing-existing-SMTP-server-with-our-own-SMTP-server.webp",
     "Practical Ethical Hacking - The Complete Course/14. Attacking Active Directory (Initial Attack Vectors)/00. image/Passback Attacks 03.webp",
-    "Practical Ethical Hacking - The Complete Course/14. Attacking Active Directory (Initial Attack Vectors)/00. image/63702be62c89f77c67a24c44_HP-Color-LaserJet-MFP-M477fdn-signin.webp",
-    "Practical Ethical Hacking - The Complete Course/24. Legal Documents and Report Writing"
+    "Practical Ethical Hacking - The Complete Course/14. Attacking Active Directory (Initial Attack Vectors)/00. image/63702be62c89f77c67a24c44_HP-Color-LaserJet-MFP-M477fdn-signin.webp"
   ]
 }
