@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "2.5 Funkwellen"
             }
+          },
+          {
+            "id": "1a6248d17a11ea52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Hilfsmitteln/HAM CW Cheat Sheet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HAM CW Cheat Sheet"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -187,12 +201,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,13 +221,14 @@
       "media-extended:Open external media": false
     }
   },
-  "active": "596743d102944d20",
+  "active": "1a6248d17a11ea52",
   "lastOpenFiles": [
-    "Template/1.1 test test.md",
+    "Template/Template.md",
+    "0. Hilfsmitteln/HAM CW Cheat Sheet.md",
     "2. Frequenz und Wellenausbreitung/2.5 Funkwellen.md",
+    "Template/1.1 test test.md",
     "2. Frequenz und Wellenausbreitung/2.6 Wellenlänge.md",
     "README.md",
-    "Template/Template.md",
     "2. Frequenz und Wellenausbreitung/2.1 Gleich- und Wechselspannung.md",
     "2. Frequenz und Wellenausbreitung/2.7 Wasserfalldiagramm.md",
     "2. Frequenz und Wellenausbreitung/2.4 Amplitude und Periode.md",
@@ -243,7 +257,6 @@
     "t.md",
     "test.md",
     "Practical Ethical Hacking - The Complete Course/17. We've Compromised the Domain - Now What/04. Golden Ticket Attacks.md",
-    "Practical Ethical Hacking - The Complete Course/17. We've Compromised the Domain - Now What/02. Dumping the NTDS.dit.md",
     "Practical Ethical Hacking - The Complete Course/16. Attacking Active Directory (Post-Compromise Attacks)/00. image/kerberosting overview 01.png",
     "Practical Ethical Hacking - The Complete Course/16. Attacking Active Directory (Post-Compromise Attacks)/00. image/Screenshot 2024-08-08 160342.png",
     "Practical Ethical Hacking - The Complete Course/16. Attacking Active Directory (Post-Compromise Attacks)/00. image",
