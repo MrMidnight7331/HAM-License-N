@@ -37,3 +37,7 @@ In [Obsidian](https://obsidian.md/) öffnen für richtige Formatierung!
 [[2.17 Troposphärische Inversionsbildung]]
 [[2.18 Sporadic-E]]
 [[2.19 Ionosphäre]]
+
+### 3. Amateurfunkstationen
+[[3.1 Aufbau von Rufzeichen]]
+[[3.2 Persönliche Rufzeichen]]
