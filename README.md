@@ -32,4 +32,8 @@ In [Obsidian](https://obsidian.md/) öffnen für richtige Formatierung!
 [[2.12 IARU-Bandpläne]]
 [[2.13 IARU-Bandplan für 2 m]]
 [[2.14 IARU-Bandplan für 70cm]]
-[[2.1
+[[2.15 Wellenausbreitung]]
+[[2.16 Funkhorizont]]
+[[2.17 Troposphärische Inversionsbildung]]
+[[2.18 Sporadic-E]]
+[[2.19 Ionosphäre]]
