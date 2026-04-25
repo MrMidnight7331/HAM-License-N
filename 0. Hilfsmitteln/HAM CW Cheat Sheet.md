@@ -134,15 +134,15 @@
 |_WC_|Will comply.|Send _WC_ to say you will do what was requested.|
 
 ### Politeness / simple answers
-|CW|Meaning|Use it like this|
-|:-:|:--|---|
-|_PSE_|Please.|Use _PSE_ when asking for something.|
-|_PLS_|Please.|Use _PLS_ like _PSE_, but do not send it after _CQ_.|
-|_SVP_|Please, from French. Rare in normal ham contacts.|Use _SVP_ only if the other operator will understand it.|
-|_TU_|Thank you.|Send _TU_ after receiving useful information.|
-|_THX_|Thanks / thank you.|Send _THX_ in a friendly contact.|
-|_FB_|Good / excellent. Literally “fine business.”|Send _FB_ when copy, signal, or information is good.|
-|_ES_|And.|Use _ES_ to connect two pieces of information.|
+|  CW   | Meaning                                           | Use it like this                                         |
+| :---: | :------------------------------------------------ | -------------------------------------------------------- |
+| _PSE_ | Please.                                           | Use _PSE_ when asking for something.                     |
+| _PLS_ | Please.                                           | Use _PLS_ like _PSE_, but do not send it after _CQ_.     |
+| _SVP_ | Please, from French. Rare in normal ham contacts. | Use _SVP_ only if the other operator will understand it. |
+| _TU_  | Thank you.                                        | Send _TU_ after receiving useful information.            |
+| _THX_ | Thanks / thank you.                               | Send _THX_ in a friendly contact.                        |
+| _FB_  | Good / excellent. Literally “fine business.”      | Send _FB_ when copy, signal, or information is good.     |
+| _ES_  | And.                                              | Use _ES_ to connect two pieces of information.           |
 
 ### Messages / traffic
 |CW|Meaning|Use it like this|
@@ -165,16 +165,17 @@
 |_LOG_|Logbook.|Use _LOG_ when confirming that the contact is recorded.|
 
 ### Closing / goodbye
-|   CW    | Meaning                                                                                  | Use it like this                                                   |
-| :-----: | :--------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-|  _CUL_  | See you later.                                                                           | Use _CUL_ near the end of a friendly contact.                      |
-| _CUAGN_ | See you again.                                                                           | Use _CUAGN_ when you hope to contact the station again.            |
-|  _72_   | Best regards, usually for low-power operation.                                           | Send _72_ instead of _73_ when low-power operation is the focus.   |
-|  _73_   | Best regards.                                                                            | Send _73_ at the end of most amateur radio contacts.               |
-|  _88_   | Love and kisses.                                                                         | Use _88_ only when appropriate.                                    |
-|  _161_  | Best regards plus love and kisses. Rare, often associated with female-operator networks. | Use _161_ only in the right social context.                        |
-|  _77_   | Long live CW / wishing many good CW contacts.                                            | Use _77_ as a CW-friendly sign-off.                                |
-|  _SK_   | Silent Key; a deceased radio amateur.                                                    | Outside a contact, _SK_ can refer to a radio amateur who has died. |
+|   CW    | Meaning                                                                                  | Use it like this                                                             |
+| :-----: | :--------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+|  _CUL_  | See you later.                                                                           | Use _CUL_ near the end of a friendly contact.                                |
+| _CUAGN_ | See you again.                                                                           | Use _CUAGN_ when you hope to contact the station again.                      |
+|  _72_   | Best regards, usually for low-power operation.                                           | Send _72_ instead of _73_ when low-power operation is the focus.             |
+|  _73_   | Best regards.                                                                            | Send _73_ at the end of most amateur radio contacts.                         |
+|  _88_   | Love and kisses.                                                                         | Use _88_ only when appropriate.                                              |
+|  _161_  | Best regards plus love and kisses. Rare, often associated with female-operator networks. | Use _161_ only in the right social context.                                  |
+|  _77_   | Long live CW / wishing many good CW contacts.                                            | Use _77_ as a CW-friendly sign-off.                                          |
+|  _SK_   | Silent Key; a deceased radio amateur. End of contract                                    | Outside than end of contact, _SK_ can refer to a radio amateur who has died. |
+|  *EE*   | Friendly way to end a contact.                                                           | "dit dit" *EE* as a friendly way to end a contact.                           |
 
 ### Simple QSO flow
 |CW|Meaning|Use it like this|

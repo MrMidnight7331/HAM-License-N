@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "0. Hilfsmitteln/HAM CW Cheat Sheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "HAM CW Cheat Sheet"
             }
           }
         ],
@@ -223,8 +223,8 @@
   },
   "active": "1a6248d17a11ea52",
   "lastOpenFiles": [
-    "Pasted image 20260424223904.png",
     "README.md",
+    "Pasted image 20260424223904.png",
     "2. Frequenz und Wellenausbreitung/2.19 Ionosphäre.md",
     "2. Frequenz und Wellenausbreitung/2.18 Sporadic-E.md",
     "2. Frequenz und Wellenausbreitung/2.17 Troposphärische Inversionsbildung.md",
