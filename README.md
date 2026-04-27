@@ -5,6 +5,8 @@
 In [Obsidian](https://obsidian.md/) öffnen für richtige Formatierung!
 
 --- 
+
+## Zusammenfassungen des Materials
 ### 1. Erste Schritte
 [[1.1 Vorwort]]
 [[1.2 Der erste Schritt]]
@@ -41,3 +43,7 @@ In [Obsidian](https://obsidian.md/) öffnen für richtige Formatierung!
 ### 3. Amateurfunkstationen
 [[3.1 Aufbau von Rufzeichen]]
 [[3.2 Persönliche Rufzeichen]]
+[[3.3 Klubstationen]]
+[[3.4 Ausbildungsrufzeichen]]
+[[3.5 Remote-Stationen]]
+
