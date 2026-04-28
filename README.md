@@ -5,8 +5,8 @@
 In [Obsidian](https://obsidian.md/) öffnen für richtige Formatierung!
 
 --- 
-
 ## Zusammenfassungen des Materials
+
 ### 1. Erste Schritte
 [[1.1 Vorwort]]
 [[1.2 Der erste Schritt]]
@@ -46,4 +46,6 @@ In [Obsidian](https://obsidian.md/) öffnen für richtige Formatierung!
 [[3.3 Klubstationen]]
 [[3.4 Ausbildungsrufzeichen]]
 [[3.5 Remote-Stationen]]
-
+[[3.6 Rufzeichenzusätze]]
+[[3.7 Besondere Anlässe]]
+[[3.8 Fernbediente und automatische Stationen]]
