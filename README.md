@@ -49,3 +49,6 @@ In [Obsidian](https://obsidian.md/) öffnen für richtige Formatierung!
 [[3.6 Rufzeichenzusätze]]
 [[3.7 Besondere Anlässe]]
 [[3.8 Fernbediente und automatische Stationen]]
+[[3.9 Relaisfunkstellen]]
+[[3.10 Baken]]
+[[3.11 Linkstrecken]]
