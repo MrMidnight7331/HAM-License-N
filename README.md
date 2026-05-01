@@ -52,3 +52,6 @@ In [Obsidian](https://obsidian.md/) öffnen für richtige Formatierung!
 [[3.9 Relaisfunkstellen]]
 [[3.10 Baken]]
 [[3.11 Linkstrecken]]
+[[3.12 Satelliten]]
+[[3.13 Exterritoriale Stationen]]
+[[3.14 Experimentelle Studien]]
