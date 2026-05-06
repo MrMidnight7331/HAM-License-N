@@ -55,3 +55,8 @@ In [Obsidian](https://obsidian.md/) öffnen für richtige Formatierung!
 [[3.12 Satelliten]]
 [[3.13 Exterritoriale Stationen]]
 [[3.14 Experimentelle Studien]]
+
+### Internationaler Funkbetrieb
+[[4.1 Internationale Landeskenner]]
+[[4.2 ITU-Regionen]]
+[[4.3 DX]]
