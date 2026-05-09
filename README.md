@@ -60,3 +60,8 @@ In [Obsidian](https://obsidian.md/) öffnen für richtige Formatierung!
 [[4.1 Internationale Landeskenner]]
 [[4.2 ITU-Regionen]]
 [[4.3 DX]]
+[[4.4 Funken im Ausland]]
+
+###  Modulation
+[[5.1 Rauch- und Morsezeichen]]
+[[5.2 Modulationsarten]]
